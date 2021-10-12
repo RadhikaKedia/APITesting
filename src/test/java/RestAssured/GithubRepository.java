@@ -19,7 +19,7 @@ public class GithubRepository
 	public void beforeTest()
 	{
 		baseURI = "https://api.github.com/user/repos";
-		authentication = oauth2("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");
+		authentication = oauth2("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");
 				
 	}
 	
